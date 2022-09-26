@@ -1,0 +1,1 @@
+<h2 style="color:red">Hola mundo Laravel, soy Mateo oooooo y </h2><h1>Manuel</h1>
